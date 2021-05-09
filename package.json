@@ -1,0 +1,16 @@
+{
+  "name": "devlog",
+  "version": "1.0.0",
+  "description": "seungsang00 github blog page",
+  "main": "index.js",
+  "author": "Seungyeon Yu",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "eject": "vuepress eject"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
