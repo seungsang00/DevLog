@@ -2,7 +2,7 @@ const dirTree = require('./utils/dirTree');
 const defaultPath = './docs';
 
 module.exports = {
-  base: '/devlog/', // base url을 설정합니다.
+  base: '/DevLog/', // github repository 이름으로 변경
   title: '.DevLog',
   head: [['link', { rel: 'icon', href: '/assets/images/mylogo.jpeg' }]], // html head에 넣을 값들을 설정
   themeConfig: {
